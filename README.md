@@ -4,6 +4,8 @@ It scrap information from website.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+ LIVE link - https://seo-url-auditor.vercel.app/
+
 A fast, lightweight, and robust tool for auditing URLs for basic SEO metrics. Built with Next.js App Router and Cheerio.
 
 ## Setup Instructions
